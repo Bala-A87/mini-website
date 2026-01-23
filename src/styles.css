@@ -1,0 +1,9 @@
+.yes-button {
+    font-size: medium;
+    background-color: greenyellow;
+}
+
+.no-button {
+    font-size: medium;
+    background-color: tomato;
+}
