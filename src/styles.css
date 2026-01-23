@@ -1,9 +1,16 @@
 .yes-button {
     font-size: medium;
     background-color: greenyellow;
+    display: inline-block;
 }
 
 .no-button {
     font-size: medium;
     background-color: tomato;
+    display: inline-block;
+}
+
+.button-container {
+    white-space: nowrap;
+    overflow-x: hidden;
 }
