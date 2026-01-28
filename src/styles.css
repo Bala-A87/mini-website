@@ -15,12 +15,15 @@
     overflow-x: hidden;
 }
 
+.flex-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 body {
     text-align: center;
     background-color: pink;
     min-height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
     overflow-x: hidden;
 }
